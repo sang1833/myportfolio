@@ -9,3 +9,6 @@ export { default as Footer } from "./Footer";
 // sections
 export { default as Hero } from "./sections/Hero";
 export { default as About } from "./sections/About";
+export { default as Featured } from "./sections/Featured";
+export { default as Contact } from "./sections/Contact";
+export { default as Projects } from "./sections/Projects";

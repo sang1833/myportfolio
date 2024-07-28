@@ -58,9 +58,9 @@ const Layout = ({ children, location }) => {
         </a>
 
         {isLoading && isHome ? (
-          // <Loader finishLoading={() => setIsLoading(false)} />
-          <>{setIsLoading(false)}</>
+          <Loader finishLoading={() => setIsLoading(false)} />
         ) : (
+          // <>{setIsLoading(false)}</>
           <StyledContent>
             <Nav isHome={isHome} />
             <Social isHome={isHome} />
