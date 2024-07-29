@@ -67,14 +67,14 @@ export const dataFeatured = {
             title: "TRAFFIC ADMIN WEBSITE",
             cover: {
               link: "/static/trafficlearn.png",
-              title: "FINDER ADMIN WEBSITE"
+              title: "TRAFFIC ADMIN WEBSITE"
             },
-            tech: ["React", "Angular"],
+            tech: ["React", "DaisyUI"],
             github: "https://github.com/sangAcrossTheSea/TrafficAdmin-DaisyUI-",
             external: "https://trafficlearn-admin.vercel.app/login",
             cta: null
           },
-          html: "<p>The website uses <a>Microfrontend</a> to run <a>ReactJS</a> and <a>Angular</a> in the same website, optimize user experience, and help many teams code in one project.</p>"
+          html: "<p>A React website uses <a>DaisyUI</a>. </p>"
         }
       },
       {

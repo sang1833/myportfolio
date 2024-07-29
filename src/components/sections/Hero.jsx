@@ -29,10 +29,23 @@ const StyledHeroSection = styled.section`
     }
   }
 
+  .gradient {
+    background: linear-gradient(270deg, #ff8a00, #e52e71);
+    /* background-color: #0093e9;
+    background: linear-gradient(160deg, #0093e9 0%, #80d0c7 100%); */
+
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
   h3 {
-    margin-top: 5px;
+    margin-top: 2px;
     color: var(--slate);
-    line-height: 0.9;
+    line-height: 1;
   }
 
   p {
@@ -61,7 +74,9 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Nguyen Thanh Sang.</h2>;
-  const three = <h3 className="big-heading">A front-end developer.</h3>;
+  const three = (
+    <h3 className="gradient big-heading">A front-end developer.</h3>
+  );
   const four = (
     <>
       <p>

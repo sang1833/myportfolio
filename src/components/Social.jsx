@@ -16,7 +16,7 @@ const StyledSocialList = styled.ul`
     content: "";
     display: block;
     width: 1px;
-    height: 90px;
+    height: 145.93px;
     margin: 0 auto;
     background-color: var(--light-slate);
   }
