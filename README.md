@@ -1,8 +1,5 @@
-# React + Vite
+# Portfolio website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My name is Nguyen Thanh Sang. I'm a front-end engineering from Ho Chi Minh city.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This website was designed & built by Brittany Chiang, I recently migrated the site from Gatsby to Vite. Here is her website: https://brittanychiang.com
