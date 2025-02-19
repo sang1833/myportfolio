@@ -66,15 +66,15 @@ export const dataFeatured = {
           frontmatter: {
             title: "BEN CAT MAP",
             cover: {
-              link: "/static/trafficlearn.png",
-              title: "TRAFFIC ADMIN WEBSITE"
+              link: "/static/bencatmap.png",
+              title: "BEN CAT MAP"
             },
             tech: ["React", "DaisyUI"],
-            github: "https://github.com/sangAcrossTheSea/TrafficAdmin-DaisyUI-",
-            external: "https://trafficlearn-admin.vercel.app/login",
+            github: "https://github.com/sang1833/DuongPhoBenCat",
+            external: "https://bandobencat.vercel.app",
             cta: null
           },
-          html: "<p>A React website uses <a>DaisyUI</a>. </p>"
+          html: "<p>This project highlights my <strong>full-stack development skills</strong>, including <strong>frontend UI/UX, backend APIs, security, and cloud integration</strong>.</p>"
         }
       },
       {
@@ -129,7 +129,23 @@ export const dataProjects = {
             external: "https://trafficlearn-admin.vercel.app/login",
             cta: null
           },
-          html: "<p>A staff management website</p>"
+          html: "<p>A staff management website for company</p>"
+        }
+      },
+      {
+        node: {
+          frontmatter: {
+            title: "EDUHUB",
+            cover: {
+              link: "https://v4.brittanychiang.com/static/3936989a99991beb6d649d7a7039df60/f47db/demo.avif",
+              title: "EDUHUB"
+            },
+            tech: ["React", "Redux"],
+            github: "https://github.com/ASE-UIT/02.-Online-course-System",
+            external: "https://eduhub.io.vn/web",
+            cta: null
+          },
+          html: "<p>A comprehensive online learning platform designed to provide engaging and accessible courses for students and professionals alike.</p>"
         }
       }
     ]
