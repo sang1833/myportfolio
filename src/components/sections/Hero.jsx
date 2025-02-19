@@ -75,22 +75,23 @@ const Hero = () => {
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Nguyen Thanh Sang.</h2>;
   const three = (
-    <h3 className="gradient big-heading">A front-end developer.</h3>
+    <h3 className="gradient big-heading">A full-stack developer.</h3>
   );
   const four = (
     <>
       <p>
-        As a front-end developer, I specialize in building responsive and
+        As a full-stack developer, I specialize in building responsive and
         user-friendly web applications using HTML, CSS, and JavaScript. I am
-        proficient with <a>React</a>. I want to create high-quality, visually
-        appealing solutions that meet the needs of both users and stakeholders.
+        proficient with <a>React</a> and <a>.NET</a>. I want to create
+        high-quality, visually appealing solutions that meet the needs of both
+        users and stakeholders.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="/resume.pdf"
+      href="/NguyenThanhSang_Fullstack_CV.pdf"
       target="_blank"
       rel="noreferrer"
     >

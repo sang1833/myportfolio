@@ -207,7 +207,7 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href="/resume.pdf"
+      href="/NguyenThanhSang_Fullstack_CV.pdf"
       target="_blank"
       rel="noopener noreferrer"
     >

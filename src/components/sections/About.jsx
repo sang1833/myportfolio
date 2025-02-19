@@ -134,11 +134,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              As a front-end engineer currently studying at <a>UIT</a>, I am
-              deeply passionate about creating captivating user experiences on
-              the web. My journey to mastering front-end development has been
-              filled with exciting challenges and a relentless drive to
-              continuously improve my skills.
+              As a full-stack engineer studied at <a>UIT</a>, I am deeply
+              passionate about creating captivating user experiences on the web.
+              My journey to mastering front-end development has been filled with
+              exciting challenges and a relentless drive to continuously improve
+              my skills.
             </p>
 
             <p>

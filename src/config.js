@@ -14,7 +14,7 @@ export const socialMedia = [
   },
   {
     name: "CV",
-    url: "/resume.pdf"
+    url: "/NguyenThanhSang_Fullstack_CV.pdf"
   }
 ];
 export const navLinks = [
@@ -64,7 +64,7 @@ export const dataFeatured = {
       {
         node: {
           frontmatter: {
-            title: "TRAFFIC ADMIN WEBSITE",
+            title: "BEN CAT MAP",
             cover: {
               link: "/static/trafficlearn.png",
               title: "TRAFFIC ADMIN WEBSITE"
